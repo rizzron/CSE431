@@ -1,8 +1,8 @@
 Overleaf link with edit access to ST, RA and my gmail.
-https://www.overleaf.com/8839262716wtxfxkfhmwdp
+https://www.overleaf.com/3485294952qnykqgdnjkwb
 
 Unlisted YouTube video:
-https://youtu.be/n43dMKqKWrg
+
 
 Conference submitted paper / paper submission / login Link:
 
@@ -26,10 +26,7 @@ Conference URL:
 
 
 Group Number:
-12
+29
 
 Group Members:
-16201084 MD Tanjim Mostafa
-18101303 Afreen Rahman Tithi
 23141083 Rizvy Ahmed Kamal
-23141095 Dewan Golam Mortoza
