@@ -8,7 +8,7 @@ Conference submitted paper / paper submission / login Link:
 
 
 Paper title:
-An overview: Optical Character Recognition of Bengali Handwritten Words
+A survey on Bangla OCR Processing Methodologies
 
 Paper presentation (anyone can view without login):
 
@@ -26,7 +26,7 @@ Conference URL:
 
 
 Group Number:
-12
+29
 
 Group Members:
 23141083 Rizvy Ahmed Kamal
