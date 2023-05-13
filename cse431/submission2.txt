@@ -1,5 +1,5 @@
 Link to unlisted YouTube video:
-
+https://www.youtube.com/watch?v=FYgWga65iKc
 
 Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/d/1hkfqMAAzqt5kTvv_ZnQLT2nSYWy9D48hHcnDccaPXSc/edit?usp=sharing
@@ -11,7 +11,7 @@ Link to the paper:
 
 
 Group Number:
-12
+36
 
 Individual Submitter:
 23141083 Rizvy Ahmed Kamal
