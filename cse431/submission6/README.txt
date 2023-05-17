@@ -11,19 +11,20 @@ Conference submitted paper / paper submission / login Link:
 Paper title:
 A survey on Bangla OCR Processing Methodologies
 
-Paper presentation (anyone can view without login):
+Paper presentation (anyone can view without login): 
 
 
-Paper submission date (to workshop/conference):
+Paper submission date (to workshop/conference): May 15, 2023
 
 
-Paper submission ID: (received) from conference/workshop
+Paper submission ID: 31
 
 
-Conference Name:
+Conference Name: 6th International Conference on
+Electrical Information and Communication Technology
 
 
-Conference URL:
+Conference URL: https://eict2023.kuet.ac.bd/
 
 
 Group Number:
